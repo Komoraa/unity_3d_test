@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 217df0ae5ada2324db0f65396c293014, type: 3}
+  m_Name: Asteroid Library
+  m_EditorClassIdentifier: 
+  asteroids:
+  - {fileID: 3560743635627112270, guid: 55ee58f81cc0a9c4c9abc128fc439d38, type: 3}
+  - {fileID: 5692260686424072837, guid: a4e277342e7fc1848bbdb04214835330, type: 3}
+  - {fileID: 8217956374970965697, guid: 9745da0e837ec3f448b8287bdfd73d99, type: 3}
